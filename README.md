@@ -119,5 +119,5 @@ Try rewriting your **Lab Work 1** using the adapter framework you build in this 
 
 1st-year CS student @ ITMO University  
 GitHub: [npapaHAHA](https://github.com/npapaHAHA)
-```
+
 
