@@ -1,8 +1,3 @@
-Вот как ты просил — **полный, красиво оформленный `README.md` на английском языке** для Лабораторной работы №8. Это уже серьёзная инженерная задача, и оформим её соответственно — как настоящую data processing library 📦
-
----
-
-```markdown
 # Lab Work 8: Dataflow Adapters Library (C++)
 
 This lab focuses on designing a **modular and composable data processing library** using STL-like adapters and lazy evaluation.  
